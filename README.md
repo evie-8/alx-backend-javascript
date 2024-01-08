@@ -1,5 +1,5 @@
 # JAVASCRIPT
-## This folder contains all projects to do with Javascript fo ALX Back-end Specialization<
+## This folder contains all projects to do with Javascript fo ALX Back-end Specialization
 
 |Project Name    | Description   |
 | :-------------  | :------------- |
