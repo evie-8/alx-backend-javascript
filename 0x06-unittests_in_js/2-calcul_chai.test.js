@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const assert = require('chai');
-const calculateNumber = require('./2-calcul');
+const calculateNumber = require('./2-calcul_chai');
 const expect = assert.except;
 
 describe('testing the calculator', () => {
