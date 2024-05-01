@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+/* eslint disable*/
 const assert = require('chai');
 const calculateNumber = require('./2-calcul_chai');
 const expect = assert.expect;
