@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+/* eslint-disable consistent-return */
 function calculateNumber(type, numA, numB) {
   try {
     const roundedA = Math.round(numA);
